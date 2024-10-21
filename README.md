@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a passionate 17-year-old aspiring software developer with a focus on creating innovative AI solutions. Currently, I’m working on a personal project named ASTRA (Adaptive Screen-based Task Response Assistant), a standalone application designed to enhance productivity through machine learning and assistant capabilities. I'm dedicated to refining its web search capabilities and screen responsiveness.<br><br>In addition to ASTRA, I'm developing a simple AI chatbot named Aether, where I'm integrating NLTK to boost its conversational skills. I'm excited about creating a sophisticated user interface that makes interaction enjoyable and intuitive.
+Hi there! I'm a passionate 17-year-old aspiring software developer with a focus on creating innovative AI solutions. Currently, I’m working on a personal project named ASTRA (Adaptive Screen-based Task Response Assistant), a standalone application designed to enhance productivity through machine learning and assistant capabilities. I'm dedicated to refining its web search capabilities and screen responsiveness.<br><br>In addition to ASTRA, I'm developing a simple AI chatbot named AETHER, where I'm integrating NLTK to boost its conversational skills. I'm excited about creating a sophisticated user interface that makes interaction enjoyable and intuitive.
 
 
 ## 🌐 Socials:
